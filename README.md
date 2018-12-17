@@ -14,6 +14,11 @@
     -- User have to the minimum system requirement and availbility of tool used in this application
     -- Good management and calculation skills
 
-## 
+## Functionality
+    -- A manage can use this system to manage all information about this station like employee, staff and vehicles
+    -- Attendance and holiday will be automatically calculated by the system
+    -- Monthly salary with bonus or fine will be calculated automatically for individuals
+    -- Customer can search and see all details about vehicles thorough the system
+    -- Vehicles sells calculation and discount will calculated automatically though system
     
 
