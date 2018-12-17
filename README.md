@@ -21,4 +21,9 @@
     -- Customer can search and see all details about vehicles thorough the system
     -- Vehicles sells calculation and discount will calculated automatically though system
     
+## Contributor
+    -- This project is totally developed by me and with the help of my advisor
+    -- Course: Object oriented concept and Design
+    -- Language concpt java
+    
 
